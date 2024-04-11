@@ -1,6 +1,6 @@
 # Multi-linear-regression
 
-1) Toyota Corolla
+#1) Toyota Corolla
    
 Consider only the below columns and prepare a prediction model for predicting Price.
 
@@ -41,7 +41,7 @@ Power_Steering -- Power Steering  (Yes=1, No=0)
 Radio -- Radio  (Yes=1, No=0)
 Mistlamps	-- Mistlamps  (Yes=1, No=0)
 
-2) 50 Startups
+#2) 50 Startups
 
 Prepare a prediction model for profit of 50_startups data.
 Do transformations for getting better predictions of profit and
